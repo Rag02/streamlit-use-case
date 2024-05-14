@@ -1,0 +1,35 @@
+
+body {
+    background-color: black;
+    color: white;
+}
+
+.stButton>button {
+    background-color: red;
+    color: white;
+}
+
+.stTextInput>div>div>input {
+    background-color: black;
+    color: white;
+    border: 1px solid red;
+}
+
+.stSlider>div>div>div>div[role='slider'] {
+    background-color: red;
+}
+
+.stDataFrame, .stTable {
+    background-color: black;
+    color: white;
+}
+
+.css-1aumxhk {
+    background-color: black;
+}
+
+
+.pattern {
+    background-image: url('https://www.transparenttextures.com/patterns/asfalt-light.png');
+}
+
